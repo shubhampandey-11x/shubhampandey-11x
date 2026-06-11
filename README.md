@@ -28,11 +28,11 @@ I build production-ready AI systems at the intersection of
 
 ### 📚 Research & Publications
 
-*   📄 **IEEE Paper**: [Read my published research on IEEE Xplore](https://ieeexplore.ieee.org/) *(Update with your specific paper link)*
+*   📄 **IEEE Paper**: Read my published research on IEEE Xplore :- (https://ieeexplore.ieee.org/document/10993977
 
 ---
 
 ### 📬 Let's Connect!
 
-*   💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/...) *(Update with your LinkedIn URL)*
-*   ⚡ **Currently open to**: MLOps / AI Engineer roles
+*   💼 **LinkedIn**: https://www.linkedin.com/in/shubhampandey0011/
+*   ⚡ **Currently open to**: MLOps / AI Engineer roles / Product Specific Domain / Cloud Domain
