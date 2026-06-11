@@ -3,6 +3,22 @@
 I build production-ready AI systems at the intersection of  
 **LLMOps, FinTech, and Cloud.**
 
+Computer Science undergraduate at Bennett University with a strong foundation in Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management Systems, Computer Networks, and Cloud Computing. Passionate about building scalable software solutions, solving complex problems, and transforming ideas into practical products that create real-world impact.
+
+
+
+Experienced in developing cloud-based applications and serverless architectures using AWS services, with hands-on exposure to software development, system design principles, and modern development workflows. Through academic projects and internships, I have worked on designing efficient solutions, evaluating technical trade-offs, and writing clean, maintainable code.
+
+
+
+Beyond software engineering, I bring a product-oriented mindset shaped by experience in research, stakeholder coordination, and technology-policy initiatives. I enjoy understanding user needs, analyzing business problems, and bridging the gap between technology and strategy to deliver meaningful outcomes.
+
+
+
+I am also an IEEE conference paper author, having presented research on a quantum-secure proxy signature scheme, which strengthened my analytical thinking, technical documentation, and problem-solving abilities.
+
+Currently seeking Software Development Engineer (SDE), Product Consultant, Product Management, and technology-focused roles where I can contribute, learn, and grow while building impactful products and solutions.
+
 ---
 
 ### 🛠️ Skills & Technologies
